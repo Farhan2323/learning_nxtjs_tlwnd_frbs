@@ -1,3 +1,11 @@
+
+THIS PROJECT WAS USED TO LEARN NEXT.JS, TAILWIND CSS, AND FIREBASE. 
+USER IS ABLE TO EDIT ITEMS IN THE EXPENSE TRACKER WHICH IS CONNECTED TO FIREBASE DB AND IS UPDATED LIVE.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
